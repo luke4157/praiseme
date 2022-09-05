@@ -1,0 +1,13 @@
+Package: praiseme
+Title: Deliver Prasie to Someone
+Version: 0.0.0.9000
+Authors@R: 
+    person("Luke", "Caprarelli", , "lukecaprarelli@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package provides praise to someone.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    glue
