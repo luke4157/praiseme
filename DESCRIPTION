@@ -11,5 +11,6 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
 Imports: 
     glue
-URL: https://github.com/luke4157/praiseme
+URL: https://github.com/luke4157/praiseme,
+    https://luke4157.github.io/praiseme/
 BugReports: https://github.com/luke4157/praiseme/issues
